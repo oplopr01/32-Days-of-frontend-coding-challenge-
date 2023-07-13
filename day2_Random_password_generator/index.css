@@ -1,0 +1,59 @@
+#container{
+    text-align: center;
+    
+}
+
+*{
+    background-color: bisque;
+}
+
+.title{
+    font-size: 2rem;
+}
+
+
+#btn{
+    margin: 15px;
+    padding: 0.5rem;
+    color: white;
+    font-weight: bolder;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: turquoise;
+}
+
+input{
+    color: brown;
+}
+
+#copyBtn{
+    margin: 15px;
+    padding: 0.5rem;
+    color: white;
+    font-weight: bolder;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(45, 16, 92);
+}
+
+#pass1, #pass2{
+    border: 1px solid black;
+    display:inline-block ;
+    width: 20em;
+    height: 1em;
+    margin: 1.5em;
+    background-color: gray;
+    border-radius: 3px;
+    color: aliceblue;
+    font-weight: bolder;
+    
+}
+
+
+
+
+
+hr{
+    margin: 5%;
+    font-weight: bold;
+}

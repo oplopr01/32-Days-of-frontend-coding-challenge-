@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="./index.css"/> 
+        <meta lang="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>pass Generator</title>
+    </head>
+    <body>
+        <div id="container">
+       <div class="title">
+             <h3>Generate a </h3>
+        <h3>Random password</h3>
+       </div>
+        <p>Never use an insecure password</p>
+        <p>Enter the length of password: <input id="passLen" type="number"/></p>
+        <button id="btn" onclick="pass()">Generate password</button>
+        <hr/>
+        <input id="pass1" class="pas1" value="<_ password will appear here _>"/>
+        <button id="copyBtn" for="pass1" onclick="CopyMe(pass1)">Copy text</button>
+        <input id="pass2" class="pas1" value="<_ password will appear here _>"/>
+        <button id="copyBtn" for="pass2" onclick="CopyMe(pass2)">Copy text</button>
+        
+  
+    </div>
+    </body>
+
+    <script src="./index.js"></script> 
+    </html>
