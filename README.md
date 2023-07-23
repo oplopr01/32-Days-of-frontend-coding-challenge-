@@ -7,3 +7,6 @@ https://stately-lollipop-dc563e.netlify.app/
 
 Day2- A Random Password Generator app
 https://fantastic-croissant-b0c9d0.netlify.app/
+
+Day3- A Speed controllable moving text
+https://64bd1c8a846f6e1c363955bc--boisterous-taffy-372a01.netlify.app/
